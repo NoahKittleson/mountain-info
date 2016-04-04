@@ -1,0 +1,12 @@
+#show-mountain {
+  display: none;
+}
+
+.mountain {
+  cursor: pointer;
+  color: #0088cc;
+}
+
+.mountain:hover {
+  text-decoration: underline;
+}
